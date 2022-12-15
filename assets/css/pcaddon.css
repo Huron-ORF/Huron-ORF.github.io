@@ -71,3 +71,11 @@
     margin-right: 0.5rem;
     display: inline-block;
 }
+
+#projects-f{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
