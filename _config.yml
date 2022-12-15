@@ -1,7 +1,7 @@
 # Site settings
 title: Transforming Pathology with AI
 description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://huron-orf.github.io/"
 
 # User settings
