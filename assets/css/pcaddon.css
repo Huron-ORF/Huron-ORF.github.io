@@ -47,6 +47,14 @@
     text-align: center;
 }
 
+.about-h2{
+    font-weight: 500;
+    font-size: xx-large;
+    color: #192020;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
 .team-member.p{
     margin-top: 0;
 }
