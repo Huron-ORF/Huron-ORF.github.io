@@ -79,3 +79,16 @@
     width: 90%;
     margin: 0 auto;
 }
+
+#contact{
+    background-color: #03264a;
+    background-image: url(/assets/img/map-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px 0;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+  }
+  
